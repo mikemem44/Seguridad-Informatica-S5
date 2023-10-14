@@ -1,0 +1,42 @@
+C:\Users\Lab3-PC20\Desktop\RansomWare\bin\Debug\net7.0-windows\RansomWare.exe
+C:\Users\Lab3-PC20\Desktop\RansomWare\bin\Debug\net7.0-windows\RansomWare.deps.json
+C:\Users\Lab3-PC20\Desktop\RansomWare\bin\Debug\net7.0-windows\RansomWare.runtimeconfig.json
+C:\Users\Lab3-PC20\Desktop\RansomWare\bin\Debug\net7.0-windows\RansomWare.dll
+C:\Users\Lab3-PC20\Desktop\RansomWare\bin\Debug\net7.0-windows\RansomWare.pdb
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.AssemblyInfoInputs.cache
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.AssemblyInfo.cs
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.csproj.CoreCompileInputs.cache
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.dll
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\refint\RansomWare.dll
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.pdb
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\RansomWare.genruntimeconfig.cache
+C:\Users\Lab3-PC20\Desktop\RansomWare\obj\Debug\net7.0-windows\ref\RansomWare.dll
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\bin\Debug\net7.0-windows\RansomWare.exe
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\bin\Debug\net7.0-windows\RansomWare.deps.json
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\bin\Debug\net7.0-windows\RansomWare.runtimeconfig.json
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\bin\Debug\net7.0-windows\RansomWare.dll
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\bin\Debug\net7.0-windows\RansomWare.pdb
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.AssemblyInfoInputs.cache
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.AssemblyInfo.cs
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.csproj.CoreCompileInputs.cache
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.dll
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\refint\RansomWare.dll
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.pdb
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\RansomWare.genruntimeconfig.cache
+C:\Users\kathe\Desktop\S5 seguridad\RansomWare\obj\Debug\net7.0-windows\ref\RansomWare.dll
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\bin\Debug\net7.0-windows\RansomWare.exe
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\bin\Debug\net7.0-windows\RansomWare.deps.json
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\bin\Debug\net7.0-windows\RansomWare.runtimeconfig.json
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\bin\Debug\net7.0-windows\RansomWare.dll
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\bin\Debug\net7.0-windows\RansomWare.pdb
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.AssemblyInfoInputs.cache
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.AssemblyInfo.cs
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.dll
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\refint\RansomWare.dll
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.pdb
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\RansomWare.genruntimeconfig.cache
+C:\Users\mikel\Desktop\univalle\seguridad informatica\RansomWare\obj\Debug\net7.0-windows\ref\RansomWare.dll
